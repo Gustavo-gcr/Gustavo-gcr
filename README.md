@@ -11,6 +11,8 @@
 
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-gcr&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-gcr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias que uso/ Technologies I use
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
