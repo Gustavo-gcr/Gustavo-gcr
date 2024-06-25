@@ -18,7 +18,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 
 Olá! Me chamo Gustavo, estudante de Análise e Desenvolvimento de Sistemas na PUC. Atualmente estou no terceiro período do curso e sou apaixonado por programação. Estou fazendo estágio na LCM, onde trabalho com análise de dados e automação em Python. Neste estágio, tenho a oportunidade de aplicar meus conhecimentos acadêmicos em um ambiente prático, desenvolvendo soluções que contribuem para a análise e interpretação de dados. Estou sempre buscando aprender e aprimorar minhas habilidades nesta área emocionante e em constante evolução.
 
