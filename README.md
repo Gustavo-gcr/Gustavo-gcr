@@ -1,4 +1,6 @@
-### Hello Word! My name is Gustavo
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6699FF&width=435&lines=Hello+World%2C+my+name+is+Gustavo;Studying+ADS+at+PUC+MINAS;Working+as+a+Data+Analyst+Python)
+
 
 
 
