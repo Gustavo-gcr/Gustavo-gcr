@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-gcr&show_icons=true&theme=radical" alt="Gustavo GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-gcr&layout=compact&theme=radical" alt="Top Languages">
+
 </p>
 
 
