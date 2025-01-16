@@ -31,4 +31,4 @@
 
 Olá! Me chamo Gustavo, estudante de Análise e Desenvolvimento de Sistemas na PUC. Atualmente estou no terceiro período do curso e sou apaixonado por programação. Estou fazendo estágio na LCM, onde trabalho com análise de dados e automação em Python.Estou sempre buscando aprender e aprimorar minhas habilidades nesta área emocionante e em constante evolução.
 
-Hello! My name is Gustavo, and I'm a student of Systems Analysis and Development at PUC. Currently, I'm in the third semester of the course, and I'm passionate about programming. I'm currently interning at LCM, where I work with data analysis and automation in Python. I'm always seeking to learn and improve my skills in this exciting and constantly evolving field.
+Hello! My name is Gustavo, and I'm a student of Systems Analysis and Development at PUC. Currently, I'm in the fifth  semester of the course, and I'm passionate about programming. I'm currently interning at LCM, where I work with data analysis and automation in Python. I'm always seeking to learn and improve my skills in this exciting and constantly evolving field.
