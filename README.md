@@ -22,12 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python icon" width="30">
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML icon" width="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS icon" width="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript icon" width="30">
-</p>
-
 
 Olá! Me chamo Gustavo, estudante de Análise e Desenvolvimento de Sistemas na PUC. Atualmente estou no terceiro período do curso e sou apaixonado por programação. Estou fazendo estágio na LCM, onde trabalho com análise de dados e automação em Python.Estou sempre buscando aprender e aprimorar minhas habilidades nesta área emocionante e em constante evolução.
 
