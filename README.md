@@ -23,6 +23,10 @@
 </p>
 
 
-Olá! Me chamo Gustavo, estudante de Análise e Desenvolvimento de Sistemas na PUC. Atualmente estou no terceiro período do curso e sou apaixonado por programação. Estou fazendo estágio na LCM, onde trabalho com análise de dados e automação em Python.Estou sempre buscando aprender e aprimorar minhas habilidades nesta área emocionante e em constante evolução.
+Olá! Me chamo Gustavo, estudante de Análise e Desenvolvimento de Sistemas na PUC. Atualmente estou no terceiro período do curso e sou apaixonado por programação. Estou fazendo estágio na LCM, onde trabalho com análise de dados e automação em Python.Estou sempre buscando aprender e aprimorar minhas habilidades nesta área emocionante e em constante evolução.Além disso, desenvolvi o site https://institutocopacabana.com/ e criei um sistema de bonificações para ser utilizado por toda a empresa.
+
 
 Hello! My name is Gustavo, and I'm a student of Systems Analysis and Development at PUC. Currently, I'm in the fifth  semester of the course, and I'm passionate about programming. I'm currently interning at LCM, where I work with data analysis and automation in Python. I'm always seeking to learn and improve my skills in this exciting and constantly evolving field.
+In addition, I developed the website https://institutocopacabana.com/ and created a bonus management system to be used across the entire company.
+
+
